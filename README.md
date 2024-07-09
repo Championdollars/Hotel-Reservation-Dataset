@@ -1,2 +1,2 @@
 # Hotel-Reservation-Dataset
-This project describe how a hotel dataset set was analyze and manipulated
+The dataset contains information on 700 hotel bookings, including details such as the hotel name, booking date, stay dates, number of guests, any special requests, and whether the booking was canceled. The goal of this project is to analyze the dataset and develop a predictive model that can forecast whether a booking will be canceled. This would allow the hotel to better optimize their operations and revenue management strategies. The dataset provides a variety of features that can be explored to build an accurate model for predicting booking cancellations.
